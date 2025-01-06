@@ -6,10 +6,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: "Kris-Kringle Bells",
+    title: "The Great Sci-Fair",
     author: "Au-venturous Buddy"
   },
-  pathPrefix: "/ZNZN-V2-MBFB-V1-I3",
+  pathPrefix: "/ZNZN-V2-MBFB-V1-I2",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -27,8 +27,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Kris-Kringle Bells`,
-        short_name: `ZNZN-V2-MBFB-V1-I3`,
+        name: `The Great Sci-Fair`,
+        short_name: `ZNZN-V2-MBFB-V1-I2`,
         start_url: `/`,
         background_color: `#017BFF`,
         theme_color: `#017BFF`,
